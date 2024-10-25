@@ -6,11 +6,13 @@
 ##############################################################
 
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
-AESD_ASSIGNMENTS_VERSION = '452da93a4450b239751553b8c4b1ab4829821479'
+#AESD_ASSIGNMENTS_VERSION = '05769c9c4c9b5655627aa247e039b306e783f198'
+AESD_ASSIGNMENTS_VERSION = '05769c9c4c9b5655627aa247e039b306e783f198'
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
 AESD_ASSIGNMENTS_SITE = 'git@github.com:cu-ecen-aeld/assignments-3-and-later-tahasami86.git'
+#AESD_ASSIGNMENTS_SITE = /home/Taha.sami/linux/course_1/assignments-3-and-later-tahasami86
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
 
