@@ -4,6 +4,9 @@
 
 source shared.sh
 
+# Set the package download directory
+export BR2_DL_DIR="${HOME}/.dl"
+
 EXTERNAL_REL_BUILDROOT=../base_external
 git submodule init
 git submodule sync
